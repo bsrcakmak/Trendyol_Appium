@@ -37,8 +37,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
-apps
-src/test/java/utilities/Driver.java
-.idea
+#apps
+#src/test/java/utilities/Driver.java
+#.idea
 
 
